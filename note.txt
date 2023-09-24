@@ -1,3 +1,8 @@
+Hi I am Developer 1 name Perry
+I am the owner of this repository
+I also love coding
+
+
 Hi I am Developer 2 name Jagmeet
 I am from India
 I like Coding
